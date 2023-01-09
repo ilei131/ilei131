@@ -1,6 +1,6 @@
 - 👋 Hi, I’m openwit
 - 👀 I’m interested in iOS,Android,Flutter,Linux,QT/C/C++,Springboot,Vue...
-- 🌱 My homepage is [www.openwit.net](http://www.openwit.net)
+- 🌱 My homepage is [blog.openwit.net](http://blog.openwit.net)
 
 <!---
 ilei131/ilei131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
