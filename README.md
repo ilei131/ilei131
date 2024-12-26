@@ -1,5 +1,5 @@
 - 👋 Hi, I’m openwit
-- 👀 I’m interested in iOS,Android,Flutter,Linux,QT/C/C++,Springboot,Vue...
+- 👀 I’m interested in iOS,Android,Linux,Springboot,Vue,React,Tauri.
 - 🌱 My homepage is [openwit.net](http://openwit.net)
 
 <!---
